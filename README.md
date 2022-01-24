@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @5millgp. I’m a newbie dev hoping to build on my foundational knowledge and eventually transition to full-time dev work.
+- 👀 I am looking to first establish myself with front-end languages. 
+- 🌱 I am currently learning JavaScript to round out my knowledge of the three basic web dev languages.
+- 💞️ I’m looking to collaborate on anything that I can sink my teeth into and construct my portfolio.
